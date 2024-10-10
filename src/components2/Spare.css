@@ -1,0 +1,29 @@
+.navbar-text{
+ margin-right: 35px;
+ display: flex;
+ column-gap: 40px;
+}
+.side{
+    width: 100px;
+    margin-right: 180px;
+    display: flex;
+    column-gap: 20px;
+}
+
+.nav{
+     justify-self: center;
+     margin-left: 100px;
+     margin-right: 100px;
+     margin-bottom: 500px;
+}
+.card-title{
+    margin-right: 200px;
+    margin-top: 25px;
+    word-spacing: 15px;
+}
+.btn{
+    background-color: red;
+    color: white;
+    margin-right:250px;
+    margin-top: 50px;
+}
